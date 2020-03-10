@@ -1,2 +1,4 @@
 # Coding check list
-Must to for a non-cse grad to get into programming feild
+## To Be updated
+
+My new repo is to help new grads to prepare for coding jobs effectively.
